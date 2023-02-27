@@ -4,9 +4,9 @@
 
 * Para instalar as dependências do projeto, execute o comando:
 
-npm start
+npm install
 
 * Para executar o projeto, execute o comando:
 
-npm install
+npm start
 
